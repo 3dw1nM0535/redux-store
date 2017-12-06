@@ -6,11 +6,10 @@ const PhotoGrid = createClass({
   render () {
     return (
       <div className="photo-grid">
-      I'm the photo grid component
+      I am the photo grid components
       </div>
     );
   }
 });
 
 export default PhotoGrid;
-
