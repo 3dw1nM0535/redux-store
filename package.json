@@ -1,7 +1,7 @@
 {
   "name": "learn-redux",
   "version": "1.0.0",
-  "description": ":) ",
+  "description": "Reduxstagram photo App",
   "scripts": {
     "build:webpack": "NODE_ENV=production webpack --config webpack.config.prod.js",
     "build": "npm run clean && npm run build:webpack",
@@ -14,7 +14,7 @@
     "type": "git",
     "url": "https://github.com/3dw1nM0535/redux-store.git"
   },
-  "author": "Wes Bos",
+  "author": "Edwin Moses",
   "license": "MIT",
   "homepage": "https://github.com/wesbos/Learn-Redux",
   "dependencies": {
