@@ -23,5 +23,5 @@ app.listen(process.env.PORT, function(err) {
     return;
   }
 
-  console.log('Listening at http://localhost:7770');
+  console.log('Listening at http://localhost:' + process.env.PORT);
 });
